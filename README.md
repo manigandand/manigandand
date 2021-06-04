@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am **ambitious**, **optimistic**, **realistic** and passionate about building **Resilient Distributed Applications**.
+- 🔭 I am **ambitious**, an **optimist** and a **realist** who is passionate about building **Resilient Distributed Applications**.
 - 🐱‍💻 **Gopher** | **Software Engineer**`Backend`
 - I write Go code which always get A+ [reportcard](https://github.com/gojp/goreportcard)
 - 🌱 I’m currently learning React & Typescript
